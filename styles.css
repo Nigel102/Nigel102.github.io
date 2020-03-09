@@ -1,0 +1,56 @@
+nav ul{
+    list-style-type: none;
+padding: 0;
+margin: 0;
+overflow: hidden;
+}
+nav li{
+    float: left;
+}
+
+
+nav a {
+    display: block;
+    color: white;
+    padding: 18px 8px;
+
+    text-decoration: none;
+}
+
+
+nav a:hover{
+    background-color: rgb(105, 103, 103);
+}
+
+
+
+
+h2 {
+    display: flex;
+    justify-content: center;
+  }
+
+h1{
+    display: flex;
+    justify-content: center; 
+}
+
+p{
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    display: flex;
+    justify-content: center; 
+}
+
+.content{
+    color: white;
+}
+
+a{
+    display: flex;
+    justify-content: center;
+    
+}
